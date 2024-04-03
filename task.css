@@ -1,0 +1,51 @@
+
+
+/* img{
+    width: 400px;
+    height: auto;
+     transform: rotate(45deg);
+     margin: 200px;
+} */
+
+/* .navigation{
+    
+   width: 500px;
+   height: 400px;
+   background-color: lightgreen;
+
+} */
+
+/* .parent{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+} */
+
+.link1 {
+    text-decoration: none;
+    width: 30px;
+    height: 20px;
+   color: white;
+   background-color: green;
+   /* padding: 5px; */
+   margin-bottom: 50px;
+}
+.link2 {
+    text-decoration: none;
+    width: 30px;
+    height: 20px;
+    color: white;
+   background-color: blue;
+   /* padding: 5px; */
+   margin-top: 100px;
+   /* margin-bottom: 200px; */
+}
+.link3 {
+    text-decoration: none;
+    width: 30px;
+    height: 20px;
+    color: white;
+   background-color: orangered;
+   /* padding: 5px; */
+   /* margin-top: 100px; */
+}
